@@ -1,0 +1,39 @@
+.penguin-bg {
+    background-color: #FFF9F4;
+
+}
+
+.button-bg {
+    background-color: #6573f1;
+
+}
+
+/* main */
+.main {
+    margin-top: 100px;
+}
+
+.shoe-div {
+    margin-left: 100px;
+
+
+}
+
+.nike-color {
+    color: #FA804C;
+
+
+}
+
+.infinity-color {
+    color: #363958;
+}
+
+.shoe-back {
+    background-color: rgb(240, 235, 235);
+}
+
+/* formal */
+.card-title {
+    color: #363958;
+}
